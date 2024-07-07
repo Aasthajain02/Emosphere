@@ -1,0 +1,14 @@
+pip
+streamlit
+portaudio
+bumpversion
+wheel
+watchdog
+flake8
+coverage
+Sphinx
+sphinx-rtd-theme
+twine
+pytest
+pytest-runner
+sounddevice
