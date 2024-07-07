@@ -6,5 +6,7 @@ pandas
 pylint
 seaborn
 soundfile
+portaudio
+
 sounddevice
 tensorflow
