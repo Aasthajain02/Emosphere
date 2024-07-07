@@ -1,0 +1,9 @@
+flake8
+joblib
+librosa
+matplotlib
+pandas
+pylint
+seaborn
+soundfile
+tensorflow
